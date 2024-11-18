@@ -1,0 +1,7 @@
+name: Spigot-Abstract-SubCommands
+version: '1.0-SNAPSHOT'
+main: com.deadshotmdf.Spigot_Abstract_SubCommands.SASC
+api-version: '1.21'
+authors: [ DeadshotMDF ]
+commands:
+  sasc:
