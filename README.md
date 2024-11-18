@@ -21,18 +21,7 @@ public class ReloadConfig extends SubCommand {
     }
 }
 ```
-public final class SASC extends JavaPlugin {
 
-    private SomeManager someManager;
-
-    @Override
-    public void onEnable() {
-        this.someManager = new SomeManager();
-
-        this.getCommand("sasc").setExecutor(new MainCommand(this, someManager));
-    }
-
-}
 </details>
 
 <details>
